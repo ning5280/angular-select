@@ -1,0 +1,16 @@
+<div>
+	<select ng-model="select.province" class="form-control" ng-change="selectChange({id:select.province,type:'province'})">
+	  <option value="">请选择</option>
+	  <option ng-repeat="key in selectData.province" ng-bind="key.name" ng-value="key.id">1</option>
+	
+	</select>
+	<select ng-model="select.city" class="form-control" ng-change="selectChange({id:select.city,type:'city'})">
+	  <option value="">请选择</option>
+	  <option ng-repeat="key in selectData.city" ng-bind="key.name" ng-value="key.id">1</option>
+	</select>
+
+	<select ng-model="select.county" class="form-control" ng-change="selectChange({id:select.county,type:'county'})">
+	  <option value="">请选择</option>
+	  <option ng-repeat="key in selectData.county" ng-bind="key.name" ng-value="key.id">1</option>
+	</select>
+</div>

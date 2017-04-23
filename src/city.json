@@ -1,0 +1,10 @@
+{
+	"dataStatus":"1",
+	"dataMessage":"成功",
+	"dataResult":[
+		{"id":"8","name":"济南市","pid":"2"},
+		{"id":"9","name":"潍坊市","pid":"2"},
+		{"id":"11","name":"青岛市","pid":"2"},
+		{"id":"12","name":"威海市","pid":"2"}
+	]
+}

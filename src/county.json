@@ -1,0 +1,10 @@
+{
+	"dataStatus":"1",
+	"dataMessage":"成功",
+	"dataResult":[
+		{"id":"18","name":"高密市","pid":"9"},
+		{"id":"19","name":"诸城市","pid":"9"},
+		{"id":"111","name":"寿光市","pid":"9"},
+		{"id":"122","name":"城区","pid":"9"}
+	]
+}

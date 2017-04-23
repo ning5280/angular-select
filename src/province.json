@@ -1,0 +1,10 @@
+{
+	"dataStatus":"1",
+	"dataMessage":"成功",
+	"dataResult":[
+		{"id":"1","name":"北京市","pid":"0"},
+		{"id":"2","name":"山东省","pid":"0"},
+		{"id":"3","name":"辽宁省","pid":"0"},
+		{"id":"4","name":"河北省","pid":"0"}
+	]
+}
